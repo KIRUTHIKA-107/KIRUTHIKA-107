@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile-banner.png" width="100%" alt="Kiruthika R - ECE and Embedded Systems">
+</p>
+
 # Hi there! 👋 I'm Kiruthika R
 
 ### Electronics and Communication Engineering Student | Embedded Systems Enthusiast
