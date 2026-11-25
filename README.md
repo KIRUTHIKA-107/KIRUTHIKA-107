@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.png" width="100%" alt="Kiruthika R - ECE and Embedded Systems">
+  <img src="profile-banner.png" width="100%" alt="profile_banner">
 </p>
 
 # Hi there! 👋 I'm Kiruthika R
